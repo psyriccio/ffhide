@@ -1,0 +1,16 @@
+/nbproject/private/
+/build/
+/dist/
+/nbproject/
+/nbproject.old/
+y
+*.log
+/.gradle*
+/gradle/
+/*.jar
+/.nb-gradle/
+/.classpath
+/.settings
+/.vscode
+/.project
+/bin/
